@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [Causal Rivers website](https://nerfies.github.io).
+This is the repository that contains source code for the [Causal Rivers website](https://causalrivers.github.io).
 
 If you find CausalRivers useful for your work please cite:
 ```
