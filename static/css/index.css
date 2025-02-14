@@ -1,5 +1,15 @@
+/* @font-face {
+  font-family: "Noto Sans";
+  src: url(../webfonts/NotoSans.ttf);
+} */
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url(../webfonts/OpenSans.ttf);
+}
+
 body {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 
@@ -48,11 +58,11 @@ body {
 }
 
 .publication-title {
-    font-family: 'Google Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .publication-authors {
-    font-family: 'Google Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .publication-venue {
