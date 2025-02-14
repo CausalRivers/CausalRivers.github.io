@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="Cache-control" content="public">
   <meta name="description" content="CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series">
   <meta name="keywords" content="CausalRivers, Germany, Rivers, Causality, Benchmarking, Time-Series">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series</title>
+
+  <link rel="icon" href="./static/images/favicon.ico" type="image/x-icon">
 
   <link rel="stylesheet" href="./static/css/bulma.min.css">
   <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
@@ -14,12 +17,11 @@
   <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
   <link rel="stylesheet" href="./static/css/academicons.min.css">
   <link rel="stylesheet" href="./static/css/index.css">
-  <link rel="icon" href="./static/images/favicon.ico" type="image/x-icon">
 
-  <script src="./static/js/jquery-3.5.1.min.js"></script>
+  <script defer src="./static/js/jquery-3.5.1.min.js"></script>
   <script defer src="./static/js/fontawesome.all.min.js"></script>
-  <script src="./static/js/bulma-carousel.min.js"></script>
-  <script src="./static/js/bulma-slider.min.js"></script>
+  <script defer src="./static/js/bulma-carousel.min.js"></script>
+  <script defer src="./static/js/bulma-slider.min.js"></script>
   <script src="./static/js/index.js"></script>
 </head>
 
@@ -135,7 +137,7 @@
         <div class="column has-text-centered">
           <div class="content">
             <h2 class="title is-3">RiversEastGermany</h2>
-            <img src="./static/images/eg_web.webp" class="interpolation-image" alt="Rivers in East-Germany" />
+            <img src="./static/images/eg_web.webp" class="interpolation-image" alt="Rivers in East-Germany" width="500" />
             <p style="font-size: 0.9rem;" class="is-centered">
               We provide a causal ground truth graph with <strong>666 nodes</strong> that spans over the full area of the former East-German republic.
               For each nodes, a high resolution time-series that spans <strong>5 years</strong> is provided.
@@ -146,7 +148,7 @@
           <h2 class="title is-3">RiversBavaria</h2>
           <div class="columns is-centered">
             <div class="column content">
-              <img src="./static/images/b_web.webp" class="interpolation-image" alt="Rivers in Bavaria" />
+              <img src="./static/images/b_web.webp" class="interpolation-image" alt="Rivers in Bavaria" width="500" />
               <p style="font-size: 0.9rem;" class="is-centered">
                 On top of the main benchmark, we provide a similarly sized ground truth graph for the state of Bavaria which holds <strong>495 nodes</strong> and time-series for the same <strong>5 year period</strong>.
               </p>
@@ -195,7 +197,7 @@
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
           <div class="publication-video">
-            <iframe src="./static/videos/ph_lq.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe title="Video" src="./static/videos/ph_lq.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen width="800"></iframe>
           </div>
           <p>River discharge changing throughout the year</p>
         </div>
@@ -212,7 +214,7 @@
           <div class="content">
             <h2 class="title is-3">Current Benchmarking Results</h2>
 
-            <img src="./static/images/current.png" class="interpolation-image" alt="Interpolation end reference image." />
+            <img src="./static/images/current_web.webp" class="interpolation-image" alt="Interpolation end reference image." width="800" />
             <p>
               We keep this updated frequently so feel free to provide the results of your methods!
               <br>
