@@ -7,7 +7,7 @@ If you find CausalRivers useful for your work please cite:
 @inproceedings{
 2025causalrivers,
 title={CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series},
-author={Gideon, Stein and Maha, Shadaydeh and Niklas, Penzel and Joachim Denzler,},
+author={Gideon, Stein and Maha, Shadaydeh and Jan, Blunk and Niklas, Penzel and Joachim, Denzler,},
 booktitle={The Thirteenth International Conference on Learning Representations},
 year={2025},
 url={https://openreview.net/forum?id=wmV4cIbgl6}
