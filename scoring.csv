@@ -18,4 +18,6 @@ CP (Transf),0.6037502686438857,0.6519861499068902,0.6152627974661873,0.679576653
 CP (Gru),0.6582312486567805,0.5765339851024208,0.6795497346344804,0.5580168575063613,0.8079877112135176,0.6474558999226931,0.5625,0.5621336235325155,0.6437314195466369,0.5987526829638916,,From publication,https://openreview.net/forum?id=wmV4cIbgl6
 Test,0.5,0.5,0.5,,,,,0.5,0.5,0.5,0.5,28/08/2025 19:15:00,-
 Test2,0.5,0.5,0.5,,,,,0.5,0.5,0.5,0.5,28/08/2025 19:25:57,-
-Vanilla PC method-ElliSchool,,,,,,,,,,,,04/09/2025 17:02:21,
+Vanilla PC method-ElliSchool,0.5,0.5,0.5,,,,,0.5,0.5,0.5,0.5,04/09/2025 17:02:21,
+Vanilla PC method-ElliSchool,,,,,,,,,,,,04/09/2025 17:29:51,https://causal-learn.readthedocs.io/en/latest/search_methods_index/Constraint-based%20causal%20discovery%20methods/PC.html
+Test3,,,,,,,,,,,,04/09/2025 17:33:15,
